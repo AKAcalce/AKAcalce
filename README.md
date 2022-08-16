@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @AKAcalce
 - 🌱 I’m currently an absolute beginner learning C++
-- 😖 If you have any tips and tricks for learning coding, let me know
-- 💻 Currently learning from Youtube videos and a C++ book from my local library
+- 💻 Currently learning from videos and tutorials online and LeetCode problems
